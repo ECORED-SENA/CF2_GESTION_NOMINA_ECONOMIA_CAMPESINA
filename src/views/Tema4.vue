@@ -152,7 +152,7 @@
 
             TarjetaAudio.color-acento-botones.mb-3.bg-16.p-3(
               texto="Derechos laborales campesinos y trabajo reproductivo"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/componentes/audios/audio2.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
