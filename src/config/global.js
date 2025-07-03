@@ -331,7 +331,7 @@ export default {
     {
       referencia:
         'Defensoría del Pueblo. (2015). <em>Derechos de los campesinos colombianos</em>. Delegada para Asuntos Agrarios y Tierras.',
-      link: 'https://www.defensoria.gov.co"',
+      link: 'https://www.defensoria.gov.co',
     },
     {
       referencia:
