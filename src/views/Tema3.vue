@@ -180,7 +180,7 @@
 
               li.d-flex.align-items-start.p-1.bg-11
                 span.icono-img
-                p.mb-0 Descuentos obligatorios: Salud (4 %) y pensión (4 %) sobre el salario base mensual
+                p.mb-0 Descuentos obligatorios: salud (4 %) y pensión (4 %) sobre el salario base mensual
 
         p.mt-4 A continuación, se presenta el cálculo detallado del salario de un trabajador con base en los días laborados, recargos dominicales, horas extra diurnas y los descuentos correspondientes por seguridad social:
 

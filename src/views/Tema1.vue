@@ -176,7 +176,7 @@
 
             p.px-5 Además del salario, se deben reconocer y pagar cesantías, intereses sobre cesantías, primas y vacaciones a los trabajadores que laboran de manera continua. 
 
-            p.mb-0.px-5 #[b Ejemplo.] Luz Marina, después de trabajar seis meses en la finca de Don Antonio, recibe su prima a mitad de año como agradecimiento y obligación por su servicio
+            p.mb-0.px-5 #[b Ejemplo.] Luz Marina, después de trabajar seis meses en la finca de Don Antonio, recibe su prima a mitad de año como agradecimiento y obligación por su servicio.
 
           div(titulo="Respetar el derecho al descanso y a la desconexión")
 
@@ -345,7 +345,7 @@
         figure
           img(src="@/assets/curso/tema1/img26.svg", alt="", style="width: 85px").m-auto
       .col-lg-10
-        p Reconocer estas distintas formas de trabajo —remuneradas o no, visibles o invisibles — #[b permite valorar la diversidad de experiencias laborales en el campo]. También fortalece el respeto por todos los aportes que hacen posible la vida rural, resaltando el papel de cada persona en el sostenimiento de la comunidad.
+        p Reconocer estas distintas formas de trabajo remuneradas o no, visibles o invisibles #[b permite valorar la diversidad de experiencias laborales en el campo]. También fortalece el respeto por todos los aportes que hacen posible la vida rural, resaltando el papel de cada persona en el sostenimiento de la comunidad.
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido

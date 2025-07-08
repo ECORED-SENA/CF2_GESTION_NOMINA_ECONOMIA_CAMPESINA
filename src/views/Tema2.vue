@@ -35,7 +35,7 @@
           
           .col-lg.d-flex
             .p-4.w-100.d-flex.align-items-center
-              p.mb-0 Antes de hablar de empresa, sociedad y su clasificación, es importante enfocarse en el tema de comerciantes; sus deberes, derechos y obligaciones. Teniendo en cuenta que a partir de aquí comienzan a configurarse las actividades que se consideran mercantiles y son ejercidas por los comerciantes, se verán reflejadas en el momento de crear la empresa de acuerdo con el marco normativo vigente.
+              p.mb-0 Antes de hablar de empresa, sociedad y su clasificación, es importante enfocarse en el tema de comerciantes: sus deberes, derechos y obligaciones. Teniendo en cuenta que a partir de aquí comienzan a configurarse las actividades que se consideran mercantiles y son ejercidas por los comerciantes, se verán reflejadas en el momento de crear la empresa de acuerdo con el marco normativo vigente.
 
     p.mt-4 Una novedad de nómina es #[b cualquier cambio en la jornada laboral habitual de un trabajador que afecte su salario, tiempo laborado o prestaciones]. Estas novedades deben registrarse con cuidado, ya que reflejan la realidad del trabajo realizado y permiten que los pagos sean transparentes y justos. Las principales novedades de nómina en el campo son: 
 
