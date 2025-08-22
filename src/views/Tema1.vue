@@ -347,6 +347,8 @@
       .col-lg-10
         p Reconocer estas distintas formas de trabajo remuneradas o no, visibles o invisibles #[b permite valorar la diversidad de experiencias laborales en el campo]. También fortalece el respeto por todos los aportes que hacen posible la vida rural, resaltando el papel de cada persona en el sostenimiento de la comunidad.
 
+    p.mt-4 Es importante precisar que los trabajadores contratados por días o por tareas pueden afiliarse al sistema de riesgos laborales y de salud sin perder los beneficios del régimen subsidiado. Cuando el empleador asume el pago de estas obligaciones, no solo garantiza la seguridad del trabajador frente a un posible accidente laboral, sino que también se protege de eventuales implicaciones legales. En los casos en que el ingreso del trabajador supere el salario mínimo mensual, resulta fundamental que tanto el empleador como el trabajador cumplan con todas las obligaciones legales, con el fin de asegurar la vigencia de sus derechos.
+
     separador
     #t_1_3.titulo-segundo.color-acento-contenido
       h2 1.3 Consecuencias legales de no cumplir con las obligaciones laborales

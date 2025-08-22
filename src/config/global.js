@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Gestión de nómina en la economía del trabajo campesina',
+    Name: 'Gestión de nómina en la economía del trabajo campesino',
     Description:
       'Este componente formativo guía la gestión de la nómina en el contexto rural campesino, promoviendo el respeto a los derechos laborales en unidades productivas. Explica obligaciones legales, tipos de novedades de nómina y su correcto registro, liquidación salarial, normativas aplicables y herramientas de sistematización. Se valora el trabajo formal e informal del campo, incluyendo labores reproductivas y prácticas comunitarias tradicionales. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -382,6 +382,18 @@ export default {
       referencia:
         'Van der Ploeg, J. D. (2025). <em>Hambre Cero: el campo</em>. Documento de trabajo.',
       link: '',
+    },
+    {
+      referencia:
+        'Ministerio del Trabajo. (2020). Licencia maternidad trabajadora régimen subsidiado [PDF].',
+      link:
+        'https://www.mintrabajo.gov.co/documents/20147/61000077/02EE2019410600000039987+Licencia+Maternidad+Trabajadora+D%C3%ADsd++R%C3%A9gimen+Subsidiado.pdf/87fc9a77-0adb-1bc5-eedf-ab4cb887a569?t=1585062353534#:~:text=Artículo%2035.,de%20Seguridad%20Social%20en%20Salud',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (s. f.). Movilidad entre regímenes [Página web].',
+      link:
+        'https://www.minsalud.gov.co/proteccionsocial/Paginas/movilidad-entre-regimenes.aspx#:~:text=Si%20est%C3%A1%20afiliado%20al%20R%C3%A9gimen,condiciones%20para%20cotizar%20como%20independiente',
     },
   ],
   creditos: [
