@@ -388,9 +388,9 @@
                     p
                       b Obligación de pagar indemnizaciones
 
-                    p El trabajador puede presentar una queja ante el Ministerio de Trabajo o una demanda judicial. Estos procesos pueden ser costosos, largos y afectar la imagen del empleador. 
+                    p Si un trabajador es despedido #[b sin justa causa], el empleador debe pagarle una #[b indemnización adicional], junto con los valores que no le haya cancelado (salarios atrasados, primas, vacaciones, cesantías).
 
-                    p #[b Ejemplo.] Un grupo de recolectores de frutas demandó a Don Jacinto por no pagarles completo. El juicio fue largo y costoso; finalmente tuvo que pagar todo con intereses.
+                    p #[b Ejemplo.] Doña Clara despidió a Pedro sin explicaciones ni liquidación. Pedro acudió a la oficina de trabajo y ella tuvo que pagarle todo lo adeudado más una suma adicional por daños.
 
 
                 .row.justify-content-center.align-items-center.my-lg-4

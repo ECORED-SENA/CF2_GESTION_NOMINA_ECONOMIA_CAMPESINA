@@ -193,7 +193,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Software empresarial.',
+              texto: '<em>Software</em> empresarial.',
               esCorrecta: false,
             },
             {

@@ -54,7 +54,7 @@
 
     separador
     #t_3_2.titulo-segundo.color-acento-contenido
-      h2 3.2 Elementos básicos para liquidar la nómina
+      h2 3.2 Ejercicio práctico: liquidación de nómina en contexto agropecuario
 
     p Liquidar correctamente la nómina #[b no se trata solo de pagar lo que se crea justo o lo que se acuerde verbalmente]. Hay que considerar varios elementos que, en conjunto, garantizan un pago conforme a la ley y a los derechos del trabajador.
 
@@ -258,7 +258,7 @@
 
     separador
     #t_3_3.titulo-segundo.color-acento-contenido
-      h2 3.3 Cálculo de salarios, horas extra y prestaciones en el campo
+      h2 3.3 cálculo de salarios, horas extra y prestaciones en el campo
 
     p El salario no se limita únicamente al pago diario por la jornada trabajada. En el contexto rural, #[b el cálculo justo del salario incluye también horas extra, recargos por días especiales y las prestaciones sociales] que el trabajador tiene derecho a recibir según la ley. Para hacer un cálculo adecuado en el campo, es importante considerar los siguientes elementos:
 

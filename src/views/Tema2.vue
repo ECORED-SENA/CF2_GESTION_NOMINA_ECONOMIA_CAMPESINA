@@ -198,11 +198,11 @@
               img(src='@/assets/curso/tema2/img14.png', alt='', style="width: 270px").m-auto
           .col-lg-7
             p(style="color:black")
-              b  Pódcast
+              b  Pódcast 
 
             TarjetaAudio.color-acento-botones.mb-3.bg-16.p-3(
               texto="Obligaciones según el nivel de formalidad"
-              :audio="require('@/assets/componentes/audios/podcast1.mp3')"
+              :audio="require('@/assets/componentes/audios/podcast2.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
@@ -231,7 +231,7 @@
                     p
                       b Anotar las novedades diariamente
 
-                    p Es clave contar con una libreta o cuaderno de trabajo donde se registre, cada día, cualquier situación especial que ocurra con los trabajadores. Debe incluir la fecha, el tipo de novedad (incapacidad, permiso, horas extra, etc.) y una breve descripción.  
+                    p Es clave contar con una libreta o cuaderno de trabajo donde se registre, cada día, cualquier situación especial que ocurra con los trabajadores. Debe incluir la fecha, el tipo de novedad (incapacidad, permiso, horas extras, etc.) y una breve descripción.  
 
                     p #[b Ejemplo.] Don Fermín anota en su libreta cada vez que un trabajador falta, llega tarde, trabaja horas extra o solicita permiso. Así tiene todo listo a fin de mes para calcular el pago correctamente.
 

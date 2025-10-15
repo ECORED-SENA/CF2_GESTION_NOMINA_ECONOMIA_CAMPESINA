@@ -162,7 +162,7 @@
 
           div(titulo="Aplicaciones móviles básicas")
 
-            p.px-5 Se pueden crear planillas en hojas impresas con columnas prediseñadas para llenar día a día. Son fáciles de archivar y facilitan el cálculo mensual. 
+            p.px-5 Para quienes usan smartphones, hay apps gratuitas o de bajo costo que permiten llevar el control diario de los trabajadores. Muchas funcionan sin conexión permanente.
 
             p.px-5
               b Tipos de aplicaciones útiles: 

@@ -92,7 +92,8 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: 'Elementos básicos para liquidar la nómina',
+            titulo:
+              'Ejercicio práctico: liquidación de nómina en contexto agropecuario​',
             hash: 't_3_2',
           },
           {
@@ -187,7 +188,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/XXXXXXXX_MODULO_3_CF02_DU.pdf',
+        download: 'downloads/212500_MODULO_3_CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',

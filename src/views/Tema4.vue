@@ -84,7 +84,7 @@
                     p
                       b Ley 100 de 1993 
 
-                    p Ley 100 de 1993 (Sistema de Seguridad Social Integral) Obliga a afiliar a los trabajadores (incluso rurales) a salud, pensión y riesgos laborales, protegiéndolos ante enfermedades, accidentes o en la vejez. 
+                    p Ley 100 de 1993 (Sistema de Seguridad Social Integral). Obliga a afiliar a los trabajadores (incluso rurales) a salud, pensión y riesgos laborales, protegiéndolos ante enfermedades, accidentes o en la vejez. 
 
 
                     p #[b Ejemplo.] Pedro, ordeñador en la finca de Don Horacio, recibe atención médica sin altos costos gracias a su afiliación en salud.
@@ -98,7 +98,7 @@
                     p
                       b Decreto 1072 de 2015 
 
-                    p Decreto 1072 de 2015 (Sistema de Gestión de Seguridad y Salud en el Trabajo) Exige que todos los empleadores, incluso en zonas rurales, garanticen condiciones seguras para prevenir accidentes y enfermedades laborales. 
+                    p Decreto 1072 de 2015 (Sistema de Gestión de Seguridad y Salud en el Trabajo). Exige que todos los empleadores, incluso en zonas rurales, garanticen condiciones seguras para prevenir accidentes y enfermedades laborales. 
 
 
                     p #[b Ejemplo.] Don Anselmo entrega guantes, botas y capacitación básica a sus trabajadores del cultivo de cebolla.
@@ -140,7 +140,7 @@
 
     .row.align-items-center.mt-4
       .col-lg-7
-        p A continuación, se analiza en el podcast la relación entre las leyes laborales colombianas y los derechos de los campesinos, destacando sus limitaciones frente al reconocimiento del trabajo reproductivo en contextos rurales.
+        p A continuación, se analiza en el pódcast la relación entre las leyes laborales colombianas y los derechos de los campesinos, destacando sus limitaciones frente al reconocimiento del trabajo reproductivo en contextos rurales.
 
         .row.align-items-center.bg-15.p-4
           .col-lg-5.d-lg-block.d-none
@@ -148,11 +148,11 @@
               img(src='@/assets/curso/tema2/img14.png', alt='', style="width: 270px").m-auto
           .col-lg-7
             p(style="color:black")
-              b  Pódcast
+              b  Pódcast 
 
             TarjetaAudio.color-acento-botones.mb-3.bg-16.p-3(
               texto="Derechos laborales campesinos y trabajo reproductivo"
-              :audio="require('@/assets/componentes/audios/podcast2.mp3')"
+              :audio="require('@/assets/componentes/audios/podcast1.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
