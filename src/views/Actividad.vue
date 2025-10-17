@@ -342,7 +342,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: true,
             },
             {
@@ -363,7 +363,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: false,
             },
             {
@@ -384,7 +384,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: true,
             },
             {
@@ -405,7 +405,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: false,
             },
             {
@@ -426,7 +426,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: false,
             },
             {

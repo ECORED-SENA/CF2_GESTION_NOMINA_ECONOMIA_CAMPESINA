@@ -332,7 +332,7 @@
       .col-lg-10
         p #[b Estas prestaciones sociales son como los abonos que se le echan a la tierra:] ayudan a que el esfuerzo del trabajador no solo se reconozca día a día, sino también a largo plazo. #[b Cumplir con ellas es una muestra de respeto, justicia y compromiso con la dignidad del trabajo campesino.]
 
-    .titulo-tres.mt-5: h3 Ejercicio práctico: Cálculo de salario, horas extra y prestaciones
+    .titulo-tres.mt-5: h3 Ejercicio práctico: cálculo de salario, horas extra y prestaciones
 
     .row.align-items-center
       .col-lg-8
