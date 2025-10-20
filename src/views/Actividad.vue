@@ -101,7 +101,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Horas extra.',
+              texto: 'Horas extras.',
               esCorrecta: true,
             },
             {

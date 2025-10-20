@@ -180,7 +180,7 @@
 
           div(titulo="Respetar el derecho al descanso y a la desconexión")
 
-            p.px-5 No se debe obligar a los trabajadores a laborar sin pausas ni a trabajar horas extra sin compensación. El cuerpo necesita descansar para poder rendir mejor. 
+            p.px-5 No se debe obligar a los trabajadores a laborar sin pausas ni a trabajar horas extras sin compensación. El cuerpo necesita descansar para poder rendir mejor. 
 
             p.mb-0.px-5 #[b Ejemplo.] En la finca de ganado de Don Ricardo, los peones tienen derecho a descansar el domingo y a tomar un breve descanso a media jornada para recuperar fuerzas.
 
@@ -416,7 +416,7 @@
 
                     p En casos graves, las autoridades pueden cerrar temporalmente la finca hasta que se resuelvan los incumplimientos. Esto implica pérdida de ingresos, producción y oportunidades. 
 
-                    p #[b Ejemplo.] En una finca de flores, al comprobarse que no se pagaban horas extra ni se garantizaba la afiliación a salud, se ordenó el cierre temporal, perdiendo toda una temporada de ventas.
+                    p #[b Ejemplo.] En una finca de flores, al comprobarse que no se pagaban horas extras ni se garantizaba la afiliación a salud, se ordenó el cierre temporal, perdiendo toda una temporada de ventas.
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5

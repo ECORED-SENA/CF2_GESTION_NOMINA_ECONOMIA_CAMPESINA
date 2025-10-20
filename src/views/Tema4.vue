@@ -193,7 +193,7 @@
 
             p.px-5 #[b Ejemplo.] Doña Margarita trabaja en ordeño. Al estar afiliada, si se lesiona en la finca, recibe atención médica sin pagar de su bolsillo.
 
-          div(titulo="Pago de horas extra, dominicales y festivos")
+          div(titulo="Pago de horas extras, dominicales y festivos")
 
             p.px-5.mb-0 ¿Qué dice la ley? 
             p.px-5.mb-0 El trabajo adicional o en días de descanso debe pagarse con recargos especiales.
@@ -238,9 +238,9 @@
                     p
                       b Hacer acuerdos claros desde el principio
 
-                    p Antes de iniciar el trabajo, se debe acordar el salario, los días laborales, las responsabilidades y los pagos adicionales por horas extra o festivos.  
+                    p Antes de iniciar el trabajo, se debe acordar el salario, los días laborales, las responsabilidades y los pagos adicionales por horas extras o festivos.  
   
-                    p #[b Ejemplo.] Don Fermín, antes de la cosecha de café, reúne a su equipo y explica cuánto se pagará por jornada, cómo se manejarán las horas extra y cuándo descansarán.
+                    p #[b Ejemplo.] Don Fermín, antes de la cosecha de café, reúne a su equipo y explica cuánto se pagará por jornada, cómo se manejarán las horas extras y cuándo descansarán.
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5

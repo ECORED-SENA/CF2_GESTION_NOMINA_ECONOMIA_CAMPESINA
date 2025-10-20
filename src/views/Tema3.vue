@@ -19,26 +19,23 @@
                   figure
                     img(src="@/assets/curso/tema3/img1.svg", alt="", style="width: 90px").m-auto
                 .col-lg-10
-                  p La liquidación de la nómina no es más que organizar toda la información de los días trabajados, las horas extras, las novedades que se presentaron, y calcular cuánto se le debe pagar al trabajador por su esfuerzo durante el mes o el tiempo acordado. Hacer esta liquidación de forma correcta ayuda a mantener la confianza, evitar discusiones y cumplir con la ley.
+                  p En este tema se explicará, paso a paso, cuáles son los elementos que se deben tener en cuenta para liquidar la nómina en el campo, cómo calcular salarios, horas extras y prestaciones, y se presentará un ejemplo práctico que ayudará a entenderlo fácilmente. Así como se lleva el control del agua para el riego o de los abonos para los cultivos, llevar el control de la nómina permite que el trabajo campesino sea más justo, organizado y respetuoso.
 
             .col-lg-4.d-lg-block.d-none
               figure
                 img(src='@/assets/curso/tema3/img2.png', alt='', style="width: 400px").m-auto
 
-          p.mt-4 En este tema se explicará, paso a paso, cuáles son los elementos que se deben tener en cuenta para liquidar la nómina en el campo, cómo calcular salarios, horas extra y prestaciones, y se presentará un ejemplo práctico que ayudará a entenderlo fácilmente. Así como se lleva el control del agua para el riego o de los abonos para los cultivos, llevar el control de la nómina permite que el trabajo campesino sea más justo, organizado y respetuoso.
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido
       h2 3.1 Elementos básicos para liquidar la nómina
-
-    p En el trabajo campesino, así como se suman los bultos cosechados o los litros de leche recogidos, también es necesario sumar con justicia todo lo que ha trabajado una persona para calcular cuánto debe pagársele. A esto se le llama liquidar la nómina.
 
     .row.mt-4.align-items-center
       .col-lg-4.d-lg-block.d-none
         figure
           img(src='@/assets/curso/tema3/img3.png', alt='', style="width: 400px").m-auto
       .col-lg-4
-        p.p-5.bg-19.bg-r8 La liquidación de la nómina consiste en #[b organizar toda la información relacionada con el tiempo trabajado, las horas extra y las novedades], para calcular lo que el trabajador debe recibir por su esfuerzo durante el mes o el periodo acordado. Hacerlo correctamente #[b fortalece la confianza, evita conflictos y asegura el cumplimiento de la ley].
+        p.p-5.bg-19.bg-r8 La liquidación de la nómina consiste en #[b organizar toda la información relacionada con el tiempo trabajado, las horas extras y las novedades], para calcular lo que el trabajador debe recibir por su esfuerzo durante el mes o el periodo acordado. Hacerlo correctamente #[b fortalece la confianza, evita conflictos y asegura el cumplimiento de la ley].
 
       .col-lg-4
         figure
@@ -96,11 +93,11 @@
                       img(src='@/assets/curso/tema3/img8.png', alt='')
                   .col-md-7.mb-4.mb-md-0.mt-lg-0.mt-4
                     p
-                      b Horas extra trabajadas
+                      b Horas extras trabajadas
 
                     p Toda hora laborada por fuera del horario regular debe ser registrada y pagada con recargo adicional según lo establece la ley. 
 
-                    p #[b Ejemplo.] Doña Mariela trabajó dos horas extra diarias durante una semana en la cosecha de maíz. Esas horas deben pagarse a un valor mayor.
+                    p #[b Ejemplo.] Doña Mariela trabajó dos horas extras diarias durante una semana en la cosecha de maíz. Esas horas deben pagarse a un valor mayor.
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
@@ -176,13 +173,13 @@
 
               li.d-flex.align-items-start.p-1.bg-11
                 span.icono-img
-                p.mb-0 Horas extra trabajadas: 2 días × 2 horas = 4 horas
+                p.mb-0 Horas extras trabajadas: 2 días × 2 horas = 4 horas
 
               li.d-flex.align-items-start.p-1.bg-11
                 span.icono-img
                 p.mb-0 Descuentos obligatorios: salud (4 %) y pensión (4 %) sobre el salario base mensual
 
-        p.mt-4 A continuación, se presenta el cálculo detallado del salario de un trabajador con base en los días laborados, recargos dominicales, horas extra diurnas y los descuentos correspondientes por seguridad social:
+        p.mt-4 A continuación, se presenta el cálculo detallado del salario de un trabajador con base en los días laborados, recargos dominicales, horas extras diurnas y los descuentos correspondientes por seguridad social:
 
 
       .col-lg-4.d-lg-block.d-none
@@ -229,7 +226,7 @@
                                 p.mb-0 Total por 2 domingos: $37.500 × 2 = $75.000
 
                         tr
-                          td.text-start Pago por horas extra diurnas
+                          td.text-start Pago por horas extras diurnas
                           td.text-start
                             ul.lista-ul--color
                               li.d-flex.align-items-start
@@ -242,7 +239,7 @@
 
                               li.d-flex.align-items-start
                                 span.icono-img
-                                p.mb-0 Total horas extra: 4 × $7.812,50 = $31.250
+                                p.mb-0 Total horas extras: 4 × $7.812,50 = $31.250
                         tr
                           td.text-start Suma total antes de descuentos
                           td.text-start $1.300.000 + $75.000 + $31.250 = $1.406.250
@@ -258,9 +255,9 @@
 
     separador
     #t_3_3.titulo-segundo.color-acento-contenido
-      h2 3.3 cálculo de salarios, horas extra y prestaciones en el campo
+      h2 3.3 cálculo de salarios, horas extras y prestaciones en el campo
 
-    p El salario no se limita únicamente al pago diario por la jornada trabajada. En el contexto rural, #[b el cálculo justo del salario incluye también horas extra, recargos por días especiales y las prestaciones sociales] que el trabajador tiene derecho a recibir según la ley. Para hacer un cálculo adecuado en el campo, es importante considerar los siguientes elementos:
+    p El salario no se limita únicamente al pago diario por la jornada trabajada. En el contexto rural, #[b el cálculo justo del salario incluye también horas extras, recargos por días especiales y las prestaciones sociales] que el trabajador tiene derecho a recibir según la ley. Para hacer un cálculo adecuado en el campo, es importante considerar los siguientes elementos:
 
     .row.mt-4
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
@@ -284,7 +281,7 @@
                 img(src='@/assets/curso/tema3/img17.svg').m-auto
 
           p.text-center 
-            b Horas extra diurnas
+            b Horas extras diurnas
           p Se pagan con un recargo del 25 % sobre el valor de una hora ordinaria.  
 
           p #[b Ejemplo.] Si un trabajador gana $6.000 por hora, la hora extra diurna se paga a $7.500.
@@ -297,7 +294,7 @@
                 img(src='@/assets/curso/tema3/img18.svg').m-auto
 
           p.text-center 
-            b Horas extra nocturnas
+            b Horas extras nocturnas
           p Tienen un recargo del 75 % sobre el valor de la hora ordinaria.  
           p #[b Ejemplo.] Una hora normal de $6.000 se paga a $10.500 si es laborada de noche.
 
@@ -332,7 +329,7 @@
       .col-lg-10
         p #[b Estas prestaciones sociales son como los abonos que se le echan a la tierra:] ayudan a que el esfuerzo del trabajador no solo se reconozca día a día, sino también a largo plazo. #[b Cumplir con ellas es una muestra de respeto, justicia y compromiso con la dignidad del trabajo campesino.]
 
-    .titulo-tres.mt-5: h3 Ejercicio práctico: cálculo de salario, horas extra y prestaciones
+    .titulo-tres.mt-5: h3 Ejercicio práctico: cálculo de salario, horas extras y prestaciones
 
     .row.align-items-center
       .col-lg-8
@@ -357,14 +354,14 @@
 
               li.d-flex.align-items-start.p-1.bg-11
                 span.icono-img
-                p.mb-0 #[b Horas extra diurnas trabajadas:] 6 horas
+                p.mb-0 #[b Horas extras diurnas trabajadas:] 6 horas
 
               li.d-flex.align-items-start.p-1.bg-11
                 span.icono-img
                 p.mb-0 #[b Domingo trabajado:] 1 (durante feria local)
 
 
-        p.mt-4 A continuación, se presenta el cálculo detallado del salario mensual, incluyendo horas extra, trabajo en domingo y prestaciones sociales proporcionales correspondientes a un mes laborado. 
+        p.mt-4 A continuación, se presenta el cálculo detallado del salario mensual, incluyendo horas extras, trabajo en domingo y prestaciones sociales proporcionales correspondientes a un mes laborado. 
 
 
       .col-lg-4.d-lg-block.d-none
@@ -381,7 +378,7 @@
 
             p.px-5 $52.000 × 24 días = #[b $1.248.000]
 
-          div(titulo="Pago por horas extra diurnas")
+          div(titulo="Pago por horas extras diurnas")
 
             ul.lista-ul--color.px-5
               li.d-flex.align-items-start
@@ -394,7 +391,7 @@
 
               li.d-flex.align-items-start
                 span.icono-img
-                p.mb-0 Total horas extra: 6 × $8.125 = #[b $48.750]
+                p.mb-0 Total horas extras: 6 × $8.125 = #[b $48.750]
 
           div(titulo="Pago por domingo trabajado")
 
@@ -484,7 +481,7 @@
 
               li.d-flex.align-items-start.p-1.bg-11
                 span.icono-img
-                p.mb-0 Horas extra diurnas trabajadas: 8 horas.
+                p.mb-0 Horas extras diurnas trabajadas: 8 horas.
 
               li.d-flex.align-items-start.p-1.bg-11
                 span.icono-img
@@ -519,7 +516,7 @@
             p.px-5 $53.000 × 25 días = #[b $1.325.000]
 
 
-          div(titulo="Pago por horas extra diurnas")
+          div(titulo="Pago por horas extras diurnas")
 
             ul.lista-ul--color.mt-2.px-4
               li.d-flex.align-items-start.p-1.bg-11
@@ -558,7 +555,7 @@
 
               li.d-flex.align-items-start.p-1.bg-11
                 span.icono-img
-                p.mb-0 $66.248 (horas extra)
+                p.mb-0 $66.248 (horas extras)
 
               li.d-flex.align-items-start.p-1.bg-11
                 span.icono-img

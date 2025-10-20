@@ -41,7 +41,7 @@
                     p
                       b Facilita el cálculo de pagos
 
-                    p Tener un registro diario permite saber con precisión cuántos días trabajó una persona, si tuvo permisos, incapacidades o hizo horas extra. 
+                    p Tener un registro diario permite saber con precisión cuántos días trabajó una persona, si tuvo permisos, incapacidades o hizo horas extras. 
 
                     p #[b Ejemplo.] Don Eduardo anota cada día la asistencia y puntualidad de sus trabajadores. A fin de mes, calcula los pagos sin olvidar ningún detalle.
 
@@ -125,7 +125,7 @@
 
               li.d-flex.align-items-start
                 span.icono-img
-                p.mb-0 Horas extra.
+                p.mb-0 Horas extras.
 
               li.d-flex.align-items-start
                 span.icono-img
@@ -135,7 +135,7 @@
                 span.icono-img
                 p.mb-0 Observaciones (accidente, enfermedad, etc.). 
 
-            p.px-5 #[b Ejemplo.]  Don Manuel anota que Rosa trabajó todo abril, hizo 4 horas extra y pidió un permiso por cita médica.
+            p.px-5 #[b Ejemplo.]  Don Manuel anota que Rosa trabajó todo abril, hizo 4 horas extras y pidió un permiso por cita médica.
 
 
           div(titulo="Formatos impresos sencillos")
@@ -158,7 +158,7 @@
                 span.icono-img
                 p.mb-0 Archivo mensual organizado. 
 
-            p.px-5 #[b Ejemplo.]  En la finca de Don José, cada trabajador firma al final del día una planilla con su asistencia, horas extra y novedades.
+            p.px-5 #[b Ejemplo.]  En la finca de Don José, cada trabajador firma al final del día una planilla con su asistencia, horas extras y novedades.
 
           div(titulo="Aplicaciones móviles básicas")
 
@@ -238,7 +238,7 @@
                     p
                       b Facilita la liquidación de pagos
 
-                    p Con información ordenada, calcular salarios, horas extra y prestaciones se vuelve fácil, rápido y sin errores. 
+                    p Con información ordenada, calcular salarios, horas extras y prestaciones se vuelve fácil, rápido y sin errores. 
 
 
                     p #[b Ejemplo.] Doña Alicia calcula en menos de una hora todos los pagos mensuales gracias a su cuaderno con registros diarios.

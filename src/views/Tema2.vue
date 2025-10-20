@@ -63,7 +63,7 @@
                       img(src='@/assets/curso/tema2/img5.png', alt='')
                   .col-md-7.mb-4.mb-md-0.mt-lg-0.mt-4
                     p
-                      b Horas extra o trabajo en días de descanso
+                      b Horas extras o trabajo en días de descanso
 
                     p Si un trabajador labora más de su horario habitual o en días festivos, esas horas deben pagarse con recargo, según lo establece la ley. 
 
@@ -138,7 +138,7 @@
 
             p.px-5 Se presentan cuando se trabaja más allá del horario habitual. Estas horas deben pagarse con un recargo adicional. 
 
-            p.mb-0.px-5 #[b Ejemplo.] Doña Carmen trabaja dos horas extra cada día durante la cosecha. Cada hora adicional debe pagarse con el porcentaje establecido por la ley.
+            p.mb-0.px-5 #[b Ejemplo.] Doña Carmen trabaja dos horas extras cada día durante la cosecha. Cada hora adicional debe pagarse con el porcentaje establecido por la ley.
 
           div(titulo="Trabajo en días festivos o dominicales")
 
@@ -233,7 +233,7 @@
 
                     p Es clave contar con una libreta o cuaderno de trabajo donde se registre, cada día, cualquier situación especial que ocurra con los trabajadores. Debe incluir la fecha, el tipo de novedad (incapacidad, permiso, horas extras, etc.) y una breve descripción.  
 
-                    p #[b Ejemplo.] Don Fermín anota en su libreta cada vez que un trabajador falta, llega tarde, trabaja horas extra o solicita permiso. Así tiene todo listo a fin de mes para calcular el pago correctamente.
+                    p #[b Ejemplo.] Don Fermín anota en su libreta cada vez que un trabajador falta, llega tarde, trabaja horas extras o solicita permiso. Así tiene todo listo a fin de mes para calcular el pago correctamente.
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5
@@ -270,7 +270,7 @@
 
                     p Si por alguna novedad se modifica el salario, el empleador debe explicar con claridad, respeto y transparencia el motivo de la variación. 
 
-                    p #[b Ejemplo.] Don Mario entrega el pago a su trabajador explicándole: “Aquí está tu pago. Te sumé dos horas extra del viernes y te desconté medio día por el permiso que pediste el miércoles.”
+                    p #[b Ejemplo.] Don Mario entrega el pago a su trabajador explicándole: “Aquí está tu pago. Te sumé dos horas extras del viernes y te desconté medio día por el permiso que pediste el miércoles.”
 
                 .row.justify-content-center.align-items-center.my-lg-4
                   .col-md-5

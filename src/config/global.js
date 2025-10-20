@@ -99,7 +99,7 @@ export default {
           {
             numero: '3.3',
             titulo:
-              'Cálculo de salarios, horas extra y prestaciones en el campo',
+              'Cálculo de salarios, horas extras y prestaciones en el campo',
             hash: 't_3_3',
           },
           {
@@ -244,7 +244,7 @@ export default {
         'jornada colectiva en la que varias personas realizan una tarea específica, generalmente acompañada de comida o con expectativa de reciprocidad futura.',
     },
     {
-      termino: 'Horas extra',
+      termino: 'Horas extras',
       significado:
         'tiempo trabajado fuera del horario habitual, que debe ser pagado con un recargo adicional según lo establece la ley.',
     },
