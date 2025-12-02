@@ -349,9 +349,266 @@
 
     p.mt-4 Es importante precisar que los trabajadores contratados por días o por tareas pueden afiliarse al sistema de riesgos laborales y de salud sin perder los beneficios del régimen subsidiado. Cuando el empleador asume el pago de estas obligaciones, no solo garantiza la seguridad del trabajador frente a un posible accidente laboral, sino que también se protege de eventuales implicaciones legales. En los casos en que el ingreso del trabajador supere el salario mínimo mensual, resulta fundamental que tanto el empleador como el trabajador cumplan con todas las obligaciones legales, con el fin de asegurar la vigencia de sus derechos.
 
+
     separador
     #t_1_3.titulo-segundo.color-acento-contenido
-      h2 1.3 Consecuencias legales de no cumplir con las obligaciones laborales
+      h2 1.3 La economía propia campesina y las formas alternativas de organización del trabajo
+
+    .row.align-items-center
+      .col-lg-4.d-lg-block.d-none
+        figure
+          img(src='@/assets/curso/tema1/img36.png', alt='', style="width: 400px").m-auto
+      .col-lg-8
+        p En el trabajo rural, la economía no se estructura únicamente a partir de contratos formales o pagos monetarios. Existe una economía propia campesina basada en autonomía, reciprocidad, sostenimiento del territorio y continuidad cultural. Esta economía articula producción, autoconsumo, cuidado familiar, intercambio solidario y conocimientos que se transmiten dentro de la comunidad. Su lógica no responde siempre a criterios empresariales, sino a la preservación de la vida y a la reproducción de la finca como unidad social y productiva. 
+        .row.align-items-center.bg-7.p-4
+          .col-lg-2.d-lg-block.d-none
+            figure
+              img(src="@/assets/curso/tema1/img37.svg", alt="", style="width: 90px").m-auto
+          .col-lg-10
+            p La OIT reconoce que la economía rural incluye relaciones laborales diversas que abarcan trabajadores asalariados, temporales, por días, familiares, pequeños productores y personas que combinan empleo y autoconsumo. También destaca la importancia de integrar formas no monetarias de sustento porque representan una parte esencial de los medios de vida rurales. (OIT, 2019) 
+        
+        p.mt-4 Este enfoque coincide con la forma en que las comunidades campesinas organizan su trabajo diario. Comprender la gestión de nómina en el campo implica entender esta economía propia. Las decisiones laborales no se basan únicamente en cálculos de costos, sino en relaciones comunitarias, vínculos familiares, ciclos productivos y acuerdos tradicionales que permiten sostener la finca y la vida rural. 
+
+    .titulo-tres.mt-5: h3 Trabajo familiar y doméstico como eje central de la economía campesina 
+
+    .row.mt-4.align-items-center
+      .col-lg-10
+        p El corazón de la economía campesina se encuentra en el trabajo familiar y doméstico, un componente estructural que sostiene el funcionamiento cotidiano de la finca. Aunque estas actividades no reciben una remuneración formal, son esenciales para que la producción continúe sin interrupciones. Estas tareas incluyen: 
+
+      .col-lg-2.d-lg-block.d-none
+        figure
+          img(src='@/assets/curso/tema1/img38.svg', alt='', style="width: 190px").m-auto
+
+
+    .row.mt-4.justify-content-center
+      .col-sm-6.col-lg-2.mb-4.mb-lg-0
+        .tarjeta--boton.bg-24.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-8
+              figure
+                img(src='@/assets/curso/tema1/img39.svg').m-auto
+
+          p.text-center Cuidado de personas mayores, enfermas o dependientes.
+
+      .col-sm-6.col-lg-2.mb-4.mb-lg-0
+        .tarjeta--boton.bg-24.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-8
+              figure
+                img(src='@/assets/curso/tema1/img40.svg').m-auto
+
+          p.text-center Alimentación y preparación de alimentos.
+
+      .col-sm-6.col-lg-2.mb-4.mb-lg-0
+        .tarjeta--boton.bg-24.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-8
+              figure
+                img(src='@/assets/curso/tema1/img41.svg').m-auto
+
+          p.text-center Mantenimiento del hogar.
+
+      .col-sm-6.col-lg-2.mb-4.mb-lg-0
+        .tarjeta--boton.bg-24.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-8
+              figure
+                img(src='@/assets/curso/tema1/img42.svg').m-auto
+
+          p.text-center Organización diaria de actividades.
+
+
+      .col-sm-6.col-lg-2.mb-4.mb-lg-0
+        .tarjeta--boton.bg-24.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-8
+              figure
+                img(src='@/assets/curso/tema1/img43.svg').m-auto
+
+          p.text-center Acompañamiento emocional.
+
+
+    .row.mt-4.align-items-center
+      .col-lg-8
+        p La Organización Internacional del Trabajo (OIT, 2019) subraya que gran parte de este trabajo recae sobre mujeres y jóvenes rurales, quienes, a través de actividades no remuneradas, garantizan la productividad familiar y comunitaria. Este tipo de trabajo, aunque invisibilizado en términos salariales, impacta directamente en: 
+
+        .row.p-3.bg-10.align-items-center
+          .col-lg-4.d-lg-block.d-none
+            figure
+              img(src='@/assets/curso/tema1/img44.png', alt='', style="width: 272px").m-auto
+          .col-lg-8
+
+            ul.lista-ul--color.mt-2.px-4
+              li.d-flex.align-items-start.p-1.bg-11
+                span.icono-img
+                p.mb-0 La economía interna de la finca. 
+
+
+              li.d-flex.align-items-start.p-1.bg-11
+                span.icono-img
+                p.mb-0 La salud integral de la comunidad. 
+
+
+              li.d-flex.align-items-start.p-1.bg-11
+                span.icono-img
+                p.mb-0 La sostenibilidad de las labores agrícolas.
+
+
+        p.mt-4 Integrar el reconocimiento del trabajo doméstico dentro de la gestión laboral rural es, por tanto, indispensable. Sin este soporte, sería imposible mantener los horarios, el cuidado de animales, las cosechas o los procesos productivos de manera continua. 
+      
+      .col-lg-4.d-lg-block.d-none
+        figure
+          img(src='@/assets/curso/tema1/img45.png', alt='', style="width: 400px").m-auto
+
+
+
+    .titulo-tres.mt-5: h3 Contratación esporádica, convite campesino y mano vuelta 
+
+    .row.mt-4.align-items-center
+      .col-lg-10
+        p La economía campesina combina el trabajo familiar con la contratación esporádica de mano de obra. Esta contratación no sigue un modelo mensual o permanente, sino que se activa en momentos puntuales del ciclo agrícola, como: 
+
+      .col-lg-2.d-lg-block.d-none
+        figure
+          img(src='@/assets/curso/tema1/img46.svg', alt='', style="width: 190px").m-auto
+
+
+
+    .row.mt-4.align-items-center.justify-content-center
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.bg-24.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-4
+              figure
+                img(src='@/assets/curso/tema1/img47.svg').m-auto
+            .col-8
+              p.mb-0
+                b 01
+              p.text-small Siembra
+
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.bg-24.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-4
+              figure
+                img(src='@/assets/curso/tema1/img48.svg').m-auto
+            .col-8
+              p.mb-0
+                b 02
+              p.text-small Cosecha
+
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.bg-24.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-4
+              figure
+                img(src='@/assets/curso/tema1/img49.svg').m-auto
+            .col-8
+              p.mb-0
+                b 03
+              p.text-small Desyerbe
+
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.bg-24.p-4.h-100
+          .row.justify-content-center.mb-3
+            .col-4
+              figure
+                img(src='@/assets/curso/tema1/img50.svg').m-auto
+            .col-8
+              p.mb-0
+                b 04
+              p.text-small Preparación del terreno
+
+
+
+    .row.mt-4.align-items-center
+      .col-lg-10
+        p Esta dinámica responde a la naturaleza cíclica de la producción agrícola y a las necesidades concretas de cada etapa. Además, el trabajo campesino incorpora formas tradicionales de organización comunitaria, que no solo tienen valor cultural, sino que cumplen funciones productivas reales y eficaces. 
+
+        p Las prácticas tradicionales de colaboración en la economía campesina son:  
+
+      .col-lg-2.d-lg-block.d-none
+        figure
+          img(src='@/assets/curso/tema1/img51.svg', alt='', style="width: 190px").m-auto
+
+
+    TabsB.color-primario
+      .py-4.py-md-5.bg-13(titulo="Mano vuelta" :icono="require('@/assets/curso/tema1/img52.svg')")
+        .row.p-5
+          .col-md-7.mb-4.mb-md-0.p-5
+            h4 Mano vuelta 
+            p Forma de apoyo mutuo entre familias o vecinos. Una familia ayuda en la finca de otra, recibiendo luego el mismo tipo de apoyo cuando lo necesita. Basada en la reciprocidad, no en el salario. 
+        
+          .col-md-5
+            figure
+              img(src='@/assets/curso/tema1/img53.png')
+
+      .py-4.py-md-5(titulo="Convite campesino " :icono="require('@/assets/curso/tema1/img52.svg')")
+        .row.p-5
+
+          .col-md-7.p-5
+            h4 Convite campesino 
+            p Trabajo colectivo para ejecutar tareas extensas o de interés común. Participan vecinos, familiares o incluso toda la vereda. Permite avanzar en tareas complejas sin necesidad de contratar grandes grupos. 
+
+          .col-md-5.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/tema1/img54.png')
+
+
+
+
+    .row.mt-4.align-items-center
+      .col-lg-8
+        p Estas prácticas son instituciones sociales que sostienen la economía campesina, reducen costos, fortalecen la cohesión comunitaria y permiten el desarrollo de actividades productivas que serían difíciles de realizar sin estas redes de apoyo. 
+
+        p La OIT (2019) reconoce que la economía rural incluye formas de trabajo diversas: formales, informales, comunitarias y familiares. Subraya además que la protección de derechos laborales en zonas rurales debe tener en cuenta estas particularidades para garantizar condiciones dignas y sostenibles. 
+
+      .col-lg-4.d-lg-block.d-none
+        figure
+          img(src='@/assets/curso/tema1/img55.png', alt='', style="width: 400px").m-auto
+
+
+
+    .titulo-tres.mt-5: h3 Integración curricular del enfoque solicitado 
+
+    .row.mt-4.align-items-center
+      .col-lg-4.d-lg-block.d-none
+        figure
+          img(src='@/assets/curso/tema1/img56.png', alt='', style="width: 400px").m-auto   
+      .col-lg-8
+        p Este desarrollo es clave dentro del componente formativo porque: 
+
+        .row.p-3.bg-25.align-items-center
+          .col-lg-12
+
+            ul.lista-ul--color.mt-2.px-2
+              li.d-flex.align-items-start.p-1.bg-11
+                span.icono-img
+                p.mb-0 Permite comprender que la gestión de nómina no puede separarse de la economía propia campesina. 
+
+              li.d-flex.align-items-start.p-1.bg-11
+                span.icono-img
+                p.mb-0 Visibiliza la importancia del trabajo familiar y doméstico como base laboral del campo. 
+
+
+              li.d-flex.align-items-start.p-1.bg-11
+                span.icono-img
+                p.mb-0 Reconoce el papel de instituciones comunitarias como mano vuelta y convite. 
+
+              li.d-flex.align-items-start.p-1.bg-11
+                span.icono-img
+                p.mb-0 Enmarca la contratación esporádica en los ciclos naturales de producción. 
+
+
+              li.d-flex.align-items-start.p-1.bg-11
+                span.icono-img
+                p.mb-0 Articula tu contenido con los lineamientos internacionales sobre trabajo en zonas rurales. 
+      
+
+
+    separador
+    #t_1_4.titulo-segundo.color-acento-contenido
+      h2 1.4 Consecuencias legales de no cumplir con las obligaciones laborales
 
     .row.align-items-center
       .col-lg-10

@@ -49,8 +49,14 @@ export default {
           {
             numero: '1.3',
             titulo:
-              'Consecuencias legales de no cumplir con las obligaciones laborales',
+              'La economía propia campesina y las formas alternativas de organización del trabajo',
             hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo:
+              'Consecuencias legales de no cumplir con las obligaciones laborales',
+            hash: 't_1_4',
           },
         ],
       },
